@@ -1,1 +1,1 @@
-# Astar_pathfinding
+# A Star Pathfinding Algorithm Visualiser
